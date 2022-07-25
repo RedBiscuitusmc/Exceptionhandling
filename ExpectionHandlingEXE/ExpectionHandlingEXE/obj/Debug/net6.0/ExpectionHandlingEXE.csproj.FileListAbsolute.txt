@@ -1,0 +1,15 @@
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\bin\Debug\net6.0\ExpectionHandlingEXE.exe
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\bin\Debug\net6.0\ExpectionHandlingEXE.deps.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\bin\Debug\net6.0\ExpectionHandlingEXE.runtimeconfig.json
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\bin\Debug\net6.0\ExpectionHandlingEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\bin\Debug\net6.0\ExpectionHandlingEXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.csproj.AssemblyReference.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.AssemblyInfoInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.AssemblyInfo.cs
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.csproj.CoreCompileInputs.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\refint\ExpectionHandlingEXE.dll
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.pdb
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ExpectionHandlingEXE.genruntimeconfig.cache
+C:\Users\Akashic Records\Desktop\ReposBoot\Exception Handling\ExpectionHandlingEXE\ExpectionHandlingEXE\obj\Debug\net6.0\ref\ExpectionHandlingEXE.dll
